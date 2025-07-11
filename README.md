@@ -2,7 +2,7 @@
 
 ![home](assets/Zen.gif)
 
-Bot WhatsApp sederhana menggunakan Baileys Multi-Device. Dibuat oleh Xyro.
+Bot WhatsApp sederhana menggunakan Baileys Multi-Device.
 
 ## Fitur
 
